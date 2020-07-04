@@ -65,6 +65,8 @@ class MovieDetailsViewController: UIViewController {
         ratingBG.layer.cornerRadius = 20
         yearBG.layer.cornerRadius = 20
     }
+     
+   
     
     
 }
